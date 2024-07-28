@@ -1,6 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rizwan Shah</h1>
-<h3 align="center">🚀 Crafting Delightful Experiences: Fluttering to New Heights! 🎉 Welcome, fellow tech enthusiasts, to my Flutterverse! 🌌 As a fervent Flutter developer, I wield the power of code and creativity to build exceptional mobile applications that spark joy and ignite curiosity. 🚀💡</h3>
+<h3 align="center">🚀 Crafting Delightful Experiences: Fluttering to New Heights! 🎉 Welcome, fellow tech enthusiasts, to my Flutterverse! 🌌 As a fervent Flutter developer, I wield the power of code and creativity to build exceptional mobile applications that spark joy and ignite curiosity. 🚀💡
+
+But that's not all! In addition to my Flutter expertise, I dive deep into the realms of AI, machine learning, and deep learning. 🤖💻 I harness the transformative power of these technologies to create intelligent solutions that learn, adapt, and evolve. By combining the aesthetic brilliance of Flutter with the advanced capabilities of AI, I strive to build smart, intuitive, and delightful user experiences. 🌟🔍
+</h3>
 <h3 align="center">🎨 About Me:</h3>
 <p align="center">Flutter is more than a framework; it's an artistic canvas where I orchestrate the symphony of pixels and interactivity. With an ardent passion for design and an unwavering commitment to innovation, I strive to make every app a masterpiece. 🎭🎨</p>
 <h3 align="center">🛠️ My Toolbox:</h3>
