@@ -1,17 +1,21 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Rizwan Shah</h1>
-<h3 align="center">🚀 Crafting Delightful Experiences: Fluttering to New Heights! 🎉 Welcome, fellow tech enthusiasts, to my Flutterverse! 🌌 As a fervent Flutter developer, I wield the power of code and creativity to build exceptional mobile applications that spark joy and ignite curiosity. 🚀💡 🎨 About Me: Flutter is more than a framework; it's an artistic canvas where I orchestrate the symphony of pixels and interactivity. With an ardent passion for design and an unwavering commitment to innovation, I strive to make every app a masterpiece. 🎭🎨 🛠️ My Toolbox: Flutter and Dart are my trusty companions, but my toolkit is far from limited! From Firebase to Redux, I harness a myriad of tools to breathe life into my creations. My code is clean, efficient, and always open to exploration and collaboration. 🔧🔍 🌟 Beyond Flutter: While Flutter is my domain, I'm an explorer of the tech cosmos. From backend wizardry to exploring the latest in mobile trends, I never cease to learn and evolve. Join me on this exciting journey, and together, we'll make the impossible, possible. 🌠🚀</h3>
+<h3 align="center">🚀 Crafting Delightful Experiences: Fluttering to New Heights! 🎉 Welcome, fellow tech enthusiasts, to my Flutterverse! 🌌 As a fervent Flutter developer, I wield the power of code and creativity to build exceptional mobile applications that spark joy and ignite curiosity. 🚀💡</h3>
+<h3 align="center">🎨 About Me:</h3>
+<p align="center">Flutter is more than a framework; it's an artistic canvas where I orchestrate the symphony of pixels and interactivity. With an ardent passion for design and an unwavering commitment to innovation, I strive to make every app a masterpiece. 🎭🎨</p>
+<h3 align="center">🛠️ My Toolbox:</h3>
+<p align="center">Flutter and Dart are my trusty companions, but my toolkit is far from limited! From Firebase to Redux, I harness a myriad of tools to breathe life into my creations. My code is clean, efficient, and always open to exploration and collaboration. 🔧🔍</p>
+<h3 align="center">🌟 Beyond Flutter:</h3>
+<p align="center">While Flutter is my domain, I'm an explorer of the tech cosmos. From backend wizardry to exploring the latest in mobile trends, I never cease to learn and evolve. Join me on this exciting journey, and together, we'll make the impossible, possible. 🌠🚀</p>
+<h3 align="center">🧠 AI, Machine Learning, and Deep Learning:</h3>
+<p align="center">Dedicated and results-driven Flutter Developer with expertise in AI, machine learning, and deep learning. Demonstrates a robust work ethic and a proven track record of delivering high-quality projects. Possesses exceptional time-management skills and an unwavering commitment to continuous skill enhancement. Approachable and diplomatic, excels both independently and collaboratively. Known for effective problem-solving through active listening and innovative solutions. 🧠🤖💡</p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/a7/6b/64/a76b6404c6296b32ed0a85dcf334d188.jpg">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanshah123&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanshah123" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Viharam and Al Haram**
+- 🌱 I’m currently learning **Node Js**
 
-- 🌱 I’m currently learning **Tensor Flow, Machine Learning,**
-
-- 💬 Ask me about **Flutter, State management in Flutter, Api Integration, Firebase, Java, React native, AI,**
+- 💬 Ask me about **Flutter, State management in Flutter, Api Integration, Firebase, Java, AI,MACHINE LEARNING, DEEP LEARNING, DATA SCIENCE**
 
 - 📫 How to reach me **shahrizwan403@gmail.com**
 
