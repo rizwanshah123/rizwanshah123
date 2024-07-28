@@ -5,7 +5,9 @@
 But that's not all! In addition to my Flutter expertise, I dive deep into the realms of AI, machine learning, and deep learning. 🤖💻 I harness the transformative power of these technologies to create intelligent solutions that learn, adapt, and evolve. By combining the aesthetic brilliance of Flutter with the advanced capabilities of AI, I strive to build smart, intuitive, and delightful user experiences. 🌟🔍
 </h3>
 <h3 align="center">🎨 About Me:</h3>
-<p align="center">Flutter is more than a framework; it's an artistic canvas where I orchestrate the symphony of pixels and interactivity. With an ardent passion for design and an unwavering commitment to innovation, I strive to make every app a masterpiece. 🎭🎨</p>
+<p align="center">Flutter is more than a framework; it's an artistic canvas where I orchestrate the symphony of pixels and interactivity. With an ardent passion for design and an unwavering commitment to innovation, I strive to make every app a masterpiece. 🎭🎨
+
+But my journey doesn't end there! Alongside Flutter, I delve into the dynamic world of AI, machine learning, and deep learning. 🤖💡 By merging cutting-edge technologies with creative design, I craft applications that are not only visually stunning but also intelligent and adaptive. My mission is to create experiences that resonate, inspire, and delight. 🌟🚀</p>
 <h3 align="center">🛠️ My Toolbox:</h3>
 <p align="center">Flutter and Dart are my trusty companions, but my toolkit is far from limited! From Firebase to Redux, I harness a myriad of tools to breathe life into my creations. My code is clean, efficient, and always open to exploration and collaboration. 🔧🔍</p>
 <h3 align="center">🌟 Beyond Flutter:</h3>
