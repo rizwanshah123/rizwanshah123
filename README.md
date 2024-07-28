@@ -9,7 +9,9 @@ But that's not all! In addition to my Flutter expertise, I dive deep into the re
 
 But my journey doesn't end there! Alongside Flutter, I delve into the dynamic world of AI, machine learning, and deep learning. 🤖💡 By merging cutting-edge technologies with creative design, I craft applications that are not only visually stunning but also intelligent and adaptive. My mission is to create experiences that resonate, inspire, and delight. 🌟🚀</p>
 <h3 align="center">🛠️ My Toolbox:</h3>
-<p align="center">Flutter and Dart are my trusty companions, but my toolkit is far from limited! From Firebase to Redux, I harness a myriad of tools to breathe life into my creations. My code is clean, efficient, and always open to exploration and collaboration. 🔧🔍</p>
+<p align="center">Flutter and Dart are my trusty companions, but my toolkit is far from limited! From Firebase to Redux, I harness a myriad of tools to breathe life into my creations. My code is clean, efficient, and always open to exploration and collaboration. 🔧🔍
+
+In the realm of deep learning, I leverage the power of TensorFlow and Keras to build and train sophisticated models. For machine learning, I employ scikit-learn to implement and evaluate a variety of algorithms. For data science, I utilize Pandas, Matplotlib, and NumPy to analyze and visualize data, uncovering insights that drive intelligent decision-making. Together, these tools enable me to create innovative, data-driven applications that are both functional and delightful. 📊🤖</p>
 <h3 align="center">🌟 Beyond Flutter:</h3>
 <p align="center">While Flutter is my domain, I'm an explorer of the tech cosmos. From backend wizardry to exploring the latest in mobile trends, I never cease to learn and evolve. Join me on this exciting journey, and together, we'll make the impossible, possible. 🌠🚀</p>
 <h3 align="center">🧠 AI, Machine Learning, and Deep Learning:</h3>
