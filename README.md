@@ -1,43 +1,94 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![AI Neuroscience](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Rizwan Shah</h1>
-<h3 align="center">🚀 Crafting Delightful Experiences: Fluttering to New Heights! 🎉 Welcome, fellow tech enthusiasts, to my Flutterverse! 🌌 As a fervent Flutter developer, I wield the power of code and creativity to build exceptional mobile applications that spark joy and ignite curiosity. 🚀💡
+<h3 align="center">AI for Healthcare | Deep Learning Researcher | Mobile App Developer</h3>
 
-But that's not all! In addition to my Flutter expertise, I dive deep into the realms of AI, machine learning, and deep learning. 🤖💻 I harness the transformative power of these technologies to create intelligent solutions that learn, adapt, and evolve. By combining the aesthetic brilliance of Flutter with the advanced capabilities of AI, I strive to build smart, intuitive, and delightful user experiences. 🌟🔍
-</h3>
-<h3 align="center">🎨 About Me:</h3>
-<p align="center">Flutter is more than a framework; it's an artistic canvas where I orchestrate the symphony of pixels and interactivity. With an ardent passion for design and an unwavering commitment to innovation, I strive to make every app a masterpiece. 🎭🎨
+---
 
-But my journey doesn't end there! Alongside Flutter, I delve into the dynamic world of AI, machine learning, and deep learning. 🤖💡 By merging cutting-edge technologies with creative design, I craft applications that are not only visually stunning but also intelligent and adaptive. My mission is to create experiences that resonate, inspire, and delight. 🌟🚀</p>
-<h3 align="center">🛠️ My Toolbox:</h3>
-<p align="center">Flutter and Dart are my trusty companions, but my toolkit is far from limited! From Firebase to Redux, I harness a myriad of tools to breathe life into my creations. My code is clean, efficient, and always open to exploration and collaboration. 🔧🔍
+### 🧠 About Me
 
-In the realm of deep learning, I leverage the power of TensorFlow and Keras to build and train sophisticated models. For machine learning, I employ scikit-learn to implement and evaluate a variety of algorithms. For data science, I utilize Pandas, Matplotlib, and NumPy to analyze and visualize data, uncovering insights that drive intelligent decision-making. Together, these tools enable me to create innovative, data-driven applications that are both functional and delightful. 📊🤖</p>
-<h3 align="center">🌟 Beyond Flutter:</h3>
-<p align="center">While Flutter is my domain, I'm an explorer of the tech cosmos. From backend wizardry to exploring the latest in mobile trends, I never cease to learn and evolve. Join me on this exciting journey, and together, we'll make the impossible, possible. 🌠🚀</p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/a7/6b/64/a76b6404c6296b32ed0a85dcf334d188.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwanshah123&label=Profile%20views&color=0e75b6&style=flat" alt="rizwanshah123" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I am a graduate student and AI researcher working at the intersection of **deep learning**, **biomedical data**, and **mobile technology**. Currently pursuing my **MS in Artificial Intelligence** at *Pak-Austria Fachhochschule*, I focus on solving real-world healthcare problems through intelligent systems.
 
-- 🌱 I’m currently learning **Node Js**
+I'm passionate about:
 
-- 💬 Ask me about **Flutter, State management in Flutter, Api Integration, Firebase, Java, AI,MACHINE LEARNING, DEEP LEARNING, DATA SCIENCE**
+- 🧬 Applying **AI/ML to medical imaging and neuroscience**
+- 🧠 Working on **neuro-signaling, Parkinson’s detection, and silent speech decoding**
+- 📱 Deploying intelligent systems through **mobile apps** using **Flutter**
 
-- 📫 How to reach me **shahrizwan403@gmail.com**
+---
 
-- ⚡ Fun fact **Just offer me a cup of tea and I will help you**
+### 🔬 Current Research
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rizwan-shah-a52a881b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizwan-shah-a52a881b8" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100005676348753&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005676348753&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/rizwanshah1234?utm_source=qr&igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/rizwanshah1234?utm_source=qr&igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+- **🧠 Parkinson’s Disease Detection**: EEG data analysis using deep learning and feature engineering
+- **🤐 Silent Speech Decoding**: Translating articulatory movement into intelligible speech via DL models
+- **🩸 Bone Marrow Cell Classification**: High-accuracy cell type detection with CNNs (Finalist: Google Solution Challenge 2024)
+- **🦴 Osteoarthritis Severity Grading**: Radiographic image segmentation and classification using U-Net + CNN
+
+---
+
+### 🧰 Technical Toolbox
+
+**AI & ML/Deep Learning**  
+`TensorFlow`, `Keras`, `scikit-learn`, `OpenCV`, `Pandas`, `NumPy`, `Seaborn`, `MNE`, `Matplotlib`
+
+**Medical & Biomedical Computing**  
+`EEG Signal Processing`, `Medical Imaging`, `Computer Vision`, `Biometric Modeling`, `Speech Decoding`
+
+**Languages**  
+`Python`, `Dart`, `C++`, `Java`, `JavaScript`, `HTML/CSS`
+
+**Mobile Development & Deployment**  
+`Flutter`, `Firebase`, `GetX`, `Flask API`, `Play Store`, `Clean Architecture`
+
+**Data Platforms & Tools**  
+`Google Colab`, `Jupyter Notebook`, `Git & GitHub`, `Firebase`, `MongoDB`, `MySQL`, `Postman`
+
+---
+
+### 🚀 Key Projects
+
+#### 📱 [Marrow Master](https://github.com/rizwanshah123/marrow_master)
+AI-powered mobile app for **bone marrow cell classification**  
+> Finalist – Google Solution Challenge 2024  
+> Tools: Python, MobileNet, TensorFlow, Keras, Flutter, Flask API, Firebase
+
+#### 🧠 Parkinson’s Detection (In Progress)
+> EEG-based deep learning models for early-stage Parkinson’s detection  
+> Tools: MNE, Python, Deep Neural Networks, Signal Processing
+
+#### 🦴 Osteoarthritis Classification
+> U-Net + CNN pipeline for severity detection from radiographic images  
+> Tools: TensorFlow, OpenCV, Python
+
+#### 🎙 Silent Speech Decoding
+> Deep learning system to convert articulatory movement into speech  
+> Tools: TensorFlow, LSTM, Signal Processing
+
+---
+
+### 🏆 Recognitions
+
+- 🥇 **1st Place**, Build with AI Idea Competition – GDSC CUI ATD  
+- 🏅 **Runner-Up**, SparkPitch at Tech Vision – Islamia College  
+- 🌍 **Finalist**, Google Solution Challenge 2024  
+- 🛡 **Resource Person Shield**, Mobile App Dev Workshop – GCT Abbottabad  
+- 🏅 **Outstanding Performance**, Google Developer Students Club – IT GURU
+
+---
+
+### 📫 Let’s Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rizwan-shah-a52a881b8)
+- 💼 [Google Developer Profile](https://developers.google.com/profile/u/115786984999160473201)
+- 🐙 [GitHub](https://github.com/rizwanshah123)
+- 📧 **Email**: shahrizwan403@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanshah123&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanshah123&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanshah123&layout=compact" alt="Top Languages" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwanshah123&show_icons=true&locale=en&layout=compact" alt="rizwanshah123" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwanshah123&show_icons=true&locale=en" alt="rizwanshah123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanshah123&" alt="rizwanshah123" /></p>
